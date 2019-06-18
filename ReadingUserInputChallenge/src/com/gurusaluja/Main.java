@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-
+/*
         Scanner scanner = new Scanner(System.in);
 
         int counter = 0;
@@ -34,6 +34,9 @@ public class Main {
 
         System.out.println("sum = " + sum);
         scanner.close();
+*/
+        //InputCalculator obj = new InputCalculator();
 
+        InputCalculator.inputThenPrintSumAndAverage();
     }
 }
