@@ -1,6 +1,8 @@
 package com.gurusaluja;
 
 import java.io.IOException;
+import java.math.BigDecimal;
+import java.util.HashMap;
 import java.util.Scanner;
 
 public class Main {
@@ -123,7 +125,7 @@ public class Main {
         ############################################################
         #########   Exception and User Define Exception    #########
         ############################################################
- */
+
         try
         {
             Scanner scan = new Scanner(System.in);
@@ -153,7 +155,66 @@ public class Main {
             System.out.println("User Define Exception");
         }
 
-//---------------------------------------------------| Section 6 End |-----------------------------------------------------
+---------------------------------------------------| Section 6 End |-----------------------------------------------------
+*/
+
+/*
+---------------------------------------------------| Section 7 |---------------------------------------------------------
+        ########################################
+        #########  Switch and Enum     #########
+        ########################################
+
+        SwitchEnumClass obj = new SwitchEnumClass();
+        System.out.println(obj.workStatus(SwitchEnumClass.Day.Monday));
+        System.out.println(obj.workStatus(SwitchEnumClass.Day.Sunday));
+---------------------------------------------------| Section 7 End |-----------------------------------------------------
+*/
+
+/*
+---------------------------------------------------| Section 7 |---------------------------------------------------------
+        ########################################
+        #########  Switch and Enum     #########
+        ########################################
+
+        SwitchEnumClass obj = new SwitchEnumClass();
+        System.out.println(obj.workStatus(SwitchEnumClass.Day.Monday));
+        System.out.println(obj.workStatus(SwitchEnumClass.Day.Sunday));
+---------------------------------------------------| Section 7 End |-----------------------------------------------------
+*/
+
+/*
+---------------------------------------------------| Section 8 |---------------------------------------------------------
+        #####################################
+        #########  String Split     #########
+        #####################################
+
+        StringSplit obj = new StringSplit();
+        System.out.println(obj.stringCount("this is example for string token or delimeter using split method you can split"));
+---------------------------------------------------| Section 8 End |-----------------------------------------------------
+*/
+/*
+---------------------------------------------------| Section 9 |---------------------------------------------------------
+        ###################################
+        #########  BigDecimal     #########
+        ###################################
+
+        BigDecimalAdd obj = new BigDecimalAdd();
+        System.out.println(obj.performAdd(new BigDecimal(19.1923809128309182309), new BigDecimal(8.12987398127398721)) );
+---------------------------------------------------| Section 9 End |-----------------------------------------------------
+*/
+
+/*
+---------------------------------------------------| Section 10 |---------------------------------------------------------
+        ################################################
+        #########  Char Count with HashMap     #########
+        ################################################
+
+        CharCount obj = new CharCount();
+        System.out.println(obj.doCharCount("suszkskkcloowppzpaasllalx"));
+        //hashmap.getkey() and hashmap.getvalue()
+
+---------------------------------------------------| Section 10 End |-----------------------------------------------------
+*/
 
 
 
