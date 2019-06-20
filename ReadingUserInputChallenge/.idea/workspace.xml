@@ -1,29 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d1cd265-7e27-4e72-97a0-4de5f5314a75" name="Default" comment="2nd day assignment">
-      <change afterPath="$PROJECT_DIR$/../LibraryMgmt/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LibraryMgmt/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LibraryMgmt/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LibraryMgmt/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LibraryMgmt/LibraryMgmt.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LibraryMgmt/src/books/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LibraryMgmt/src/books/Books.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LibraryMgmt/src/books/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LibraryMgmt/src/members/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LibraryMgmt/src/staff/StaffDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LibraryMgmt/src/transaction/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gurusaluja/SpecificCharCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gurusaluja/StringCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ReadingUserInputChallenge/com/gurusaluja/AA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ReadingUserInputChallenge/com/gurusaluja/AA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ReadingUserInputChallenge/com/gurusaluja/CharCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ReadingUserInputChallenge/com/gurusaluja/CharCount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ReadingUserInputChallenge/com/gurusaluja/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ReadingUserInputChallenge/com/gurusaluja/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ReadingUserInputChallenge/com/gurusaluja/UserException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ReadingUserInputChallenge/com/gurusaluja/UserException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gurusaluja/CharCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gurusaluja/CharCount.java" afterDir="false" />
+    <list default="true" id="2d1cd265-7e27-4e72-97a0-4de5f5314a75" name="Default" comment="WednesDay Assignment">
+      <change beforePath="$PROJECT_DIR$/../LibraryMgmt/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LibraryMgmt/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryMgmt/out/production/LibraryMgmt/books/Books.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LibraryMgmt/out/production/LibraryMgmt/books/Books.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryMgmt/out/production/LibraryMgmt/books/NewlyBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryMgmt/src/books/Books.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LibraryMgmt/src/books/Books.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/gurusaluja/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gurusaluja/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gurusaluja/Overriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gurusaluja/Overriding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gurusaluja/UserException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gurusaluja/UserException.java" afterDir="false" />
     </list>
     <list id="22a8f88a-fda4-49fe-b976-134798cd65ac" name="2nd day" comment="2nd day&#10;&#10;(cherry picked from commit 703974c4a488edfec8c0fcf36144c07ddbe6a645)">
       <changelist_data name="gurusaluja" email="mayursaluja@gmail.com" date="1560837149000" />
@@ -44,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/gurusaluja/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="238" column="49" lean-forward="true" selection-start-line="238" selection-start-column="49" selection-end-line="238" selection-end-column="49" />
+            <state relative-caret-position="265">
+              <caret line="240" column="65" selection-start-line="240" selection-start-column="65" selection-end-line="240" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -373,11 +356,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560871915155</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="WednesDay Assignment">
+      <created>1561001895529</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1561001895529</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Learn" order="0" />
@@ -439,7 +429,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2nd day" />
     <MESSAGE value="2nd day assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="2nd day assignment" />
+    <MESSAGE value="WednesDay Assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="WednesDay Assignment" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/description.html">
@@ -614,8 +605,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/gurusaluja/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="238" column="49" lean-forward="true" selection-start-line="238" selection-start-column="49" selection-end-line="238" selection-end-column="49" />
+        <state relative-caret-position="265">
+          <caret line="240" column="65" selection-start-line="240" selection-start-column="65" selection-end-line="240" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
