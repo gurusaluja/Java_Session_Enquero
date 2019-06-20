@@ -6,7 +6,7 @@ public class Overriding {
 class AA{
     public int a=100;
     short b=100;
-    private void fun(){
+    private void fun() throws Exception{
         System.out.println("In a parent class");
     }
     public void fun1(){

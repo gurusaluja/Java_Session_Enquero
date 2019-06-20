@@ -9,6 +9,7 @@ public class CharCount {
         HashMap<Character,Integer> count = new HashMap<Character,Integer>();
         for(char c: arr){
             if(count.containsKey(c))
+
                 count.put(c,count.get(c)+1);
             else
                 count.put(c,1);
