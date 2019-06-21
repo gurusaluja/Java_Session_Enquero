@@ -236,6 +236,9 @@ public class Main {
 */
         SpecificCharCount obj = new SpecificCharCount();
         System.out.println(obj.doCharCount("abbacdeeh"));
+        System.out.println(obj.doCharCount("eggaebcd"));
+        System.out.println(obj.doCharCount("aaabtsstbjkl"));
+        System.out.println(obj.doCharCount("aaaeesssbcb"));
         //hashmap.getkey() and hashmap.getvalue()
 
 //---------------------------------------------------| Section 12 End |-----------------------------------------------------

@@ -2,12 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18064acc-c507-4bd7-90db-375870dc2817" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LibraryMgmt/books/Books.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LibraryMgmt/books/Books.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LibraryMgmt/books/NewlyBook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/books/Books.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/books/Books.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/AA.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/AA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/BB.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/BB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/BigDecimalAdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/BigDecimalAdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/CharCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/CharCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/Inheriitance.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/Inheriitance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/InputCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/InputCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/Overloading.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/Overloading.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/Overriding.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/Overriding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/SpecificCharCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/SpecificCharCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/StringCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/StringCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/StringSplit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/StringSplit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/SwitchEnumClass$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/SwitchEnumClass$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/SwitchEnumClass$Day.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/SwitchEnumClass$Day.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/SwitchEnumClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/SwitchEnumClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/UserDefineException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/UserDefineException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/UserException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/gurusaluja/UserException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/src/com/gurusaluja/CharCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/src/com/gurusaluja/CharCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/src/com/gurusaluja/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/src/com/gurusaluja/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/src/com/gurusaluja/SpecificCharCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/src/com/gurusaluja/SpecificCharCount.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/books/Books.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="131" column="43" selection-start-line="131" selection-start-column="43" selection-end-line="131" selection-end-column="43" />
+            <state relative-caret-position="126">
+              <caret line="143" column="1" selection-start-line="143" selection-start-column="1" selection-end-line="143" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1824#1825#0" expanded="true" />
@@ -105,7 +123,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="y" value="22" />
     <option name="width" value="2561" />
     <option name="height" value="1418" />
@@ -209,7 +227,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -290,8 +308,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/books/Books.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="131" column="43" selection-start-line="131" selection-start-column="43" selection-end-line="131" selection-end-column="43" />
+        <state relative-caret-position="126">
+          <caret line="143" column="1" selection-start-line="143" selection-start-column="1" selection-end-line="143" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1824#1825#0" expanded="true" />

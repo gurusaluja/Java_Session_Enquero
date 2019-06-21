@@ -3,6 +3,7 @@ package com.gurusaluja;
 import java.util.HashMap;
 
 public class CharCount {
+    int cn=0;
     HashMap<Character,Integer> doCharCount(String s)
     {
         char []arr = s.toCharArray();
